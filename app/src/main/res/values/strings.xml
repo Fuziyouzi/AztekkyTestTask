@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestTaskAztekky</string>
+    <string name="image_of_snake">Image of snake</string>
+    <string name="person_image">Person_image</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="frame">Frame</string>
+    <string name="frame_slots">Frame slots</string>
+    <string name="symbol">Symbol</string>
+    <string name="rate">Rate  %1$s</string>
+    <string name="balance">Balance  %1$s</string>
+
+</resources>
+<!--<ImageView-->
+<!--android:id="@+id/slots_grid"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="252dp"-->
+<!--android:layout_marginStart="15dp"-->
+<!--android:layout_marginTop="55dp"-->
+<!--android:adjustViewBounds="true"-->
+<!--android:contentDescription="@string/frame_slots"-->
+<!--android:maxHeight="380dp"-->
+<!--android:minHeight="230dp"-->
+<!--android:src="@drawable/slots"-->
+<!--app:layout_constraintEnd_toEndOf="parent"-->
+<!--app:layout_constraintStart_toStartOf="parent"-->
+<!--app:layout_constraintTop_toTopOf="@id/balance_layout" />-->

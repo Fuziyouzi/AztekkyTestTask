@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_of_snake">Image of snake</string>
+    <string name="person_image">Person_image</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="frame">Frame</string>
+    <string name="frame_slots">Frame slots</string>
+    <string name="symbol">Symbol</string>
+    <string name="rate">Rate</string>
+</resources>
